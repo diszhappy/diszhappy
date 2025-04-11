@@ -76,15 +76,12 @@ I'm a passionate Application Architect with over a decade of experience in softw
 - AWS Certified Solution Architect, 2023
 
 ## 📫 How to reach me
-[![Email](https://img.shields.io/badge/Email-saumyabrata.acharya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyabrata.acharya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyabrata.acharya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumyabrata-acharya)
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
-⭐️ From [Saumyabrata Acharya](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Saumyabrata Acharya](https://github.com/diszhappy)
 <!--
 **diszhappy/diszhappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
