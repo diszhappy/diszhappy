@@ -27,6 +27,9 @@ I'm a passionate Application Architect with over a decade of experience in softw
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Ant](https://img.shields.io/badge/Ant-A81C7D?style=for-the-badge&logo=apache-ant&logoColor=white)
 
 ## AWS Service Icons
 
@@ -47,9 +50,6 @@ I'm a passionate Application Architect with over a decade of experience in softw
 ![AWS Aurora](https://img.shields.io/badge/AWS_Aurora-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Ant](https://img.shields.io/badge/Ant-A81C7D?style=for-the-badge&logo=apache-ant&logoColor=white)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
