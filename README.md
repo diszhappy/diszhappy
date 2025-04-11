@@ -27,12 +27,25 @@ I'm a passionate software developer with over a decade of experience in software
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+
+## AWS Service Icons
+
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![AWS Batch](https://img.shields.io/badge/AWS_Batch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lightsail](https://img.shields.io/badge/AWS_Lightsail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS EBS](https://img.shields.io/badge/AWS_EBS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS EFS](https://img.shields.io/badge/AWS_EFS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Glacier](https://img.shields.io/badge/AWS_Glacier-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Storage Gateway](https://img.shields.io/badge/AWS_Storage_Gateway-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Aurora](https://img.shields.io/badge/AWS_Aurora-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS ElastiCache](https://img.shields.io/badge/AWS_ElastiCache-FF
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
