@@ -31,7 +31,7 @@ I'm a passionate Application Architect with over a decade of experience in softw
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Ant](https://img.shields.io/badge/Ant-A81C7D?style=for-the-badge&logo=apache-ant&logoColor=white)
 
-## AWS Service Icons
+## AWS Services
 
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
