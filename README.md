@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Software Architect with 10+ years of experience
 
-I'm a passionate software developer with over a decade of experience in software development and maintenance across diverse industries, with a focus on Java/J2EE applications. Currently working at Amazon (Lab126) developing intelligent applications using AWS stack and GenAI technologies.
+I'm a passionate Application Architect with over a decade of experience in software development and maintenance across diverse industries, with a focus on Java/J2EE applications. Currently working at Amazon (Lab126) developing intelligent applications using AWS stack and GenAI technologies.
 
 ## 🛠️ Skills
 
