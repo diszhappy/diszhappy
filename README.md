@@ -45,7 +45,7 @@ I'm a passionate software developer with over a decade of experience in software
 ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![AWS Aurora](https://img.shields.io/badge/AWS_Aurora-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS ElastiCache](https://img.shields.io/badge/AWS_ElastiCache-FF
+
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
