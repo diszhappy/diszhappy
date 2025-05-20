@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Saumyabrata Acharya
+# Saumyabrata Acharya
 
 ## 👨‍💻 Software Architect with 10+ years of experience
 
